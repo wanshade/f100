@@ -1,0 +1,1252 @@
+[
+  {
+    "pertanyaan": "Apa ibukota Indonesia?",
+    "jawaban": "Jakarta",
+    "opsi": [
+      "Jakarta",
+      "Bandung",
+      "Surabaya",
+      "Medan"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa presiden pertama Indonesia?",
+    "jawaban": "Soekarno",
+    "opsi": [
+      "Soekarno",
+      "Suharto",
+      "Joko Widodo",
+      "B.J. Habibie"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama gunung tertinggi di Indonesia?",
+    "jawaban": "Gunung Jayawijaya",
+    "opsi": [
+      "Gunung Merapi",
+      "Gunung Rinjani",
+      "Gunung Bromo",
+      "Gunung Jayawijaya"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama mata uang resmi Indonesia?",
+    "jawaban": "Rupiah",
+    "opsi": [
+      "Rupiah",
+      "Dolar",
+      "Euro",
+      "Yen"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pulau terbesar di Indonesia?",
+    "jawaban": "Kalimantan",
+    "opsi": [
+      "Sumatra",
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penemu listrik?",
+    "jawaban": "Michael Faraday",
+    "opsi": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Michael Faraday",
+      "Alexander Graham Bell"
+    ]
+  },
+  {
+    "pertanyaan": "Apa planet terbesar di tata surya?",
+    "jawaban": "Jupiter",
+    "opsi": [
+      "Mars",
+      "Jupiter",
+      "Saturnus",
+      "Uranus"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penulis 'Harry Potter'?",
+    "jawaban": "J.K. Rowling",
+    "opsi": [
+      "J.K. Rowling",
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "Stephen King"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sungai terpanjang di dunia?",
+    "jawaban": "Nil",
+    "opsi": [
+      "Amazon",
+      "Nil",
+      "Yangtze",
+      "Mississippi"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama mata uang Jepang?",
+    "jawaban": "Yen",
+    "opsi": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Ringgit"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penemu telepon?",
+    "jawaban": "Alexander Graham Bell",
+    "opsi": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bulan kedua dalam setahun?",
+    "jawaban": "Februari",
+    "opsi": [
+      "Januari",
+      "Februari",
+      "Maret",
+      "April"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa presiden Amerika Serikat pertama?",
+    "jawaban": "George Washington",
+    "opsi": [
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson",
+      "John Adams"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pulau terbesar di dunia?",
+    "jawaban": "Grönland",
+    "opsi": [
+      "Grönland",
+      "New Guinea",
+      "Borneo",
+      "Sumatra"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama ilmiah untuk manusia?",
+    "jawaban": "Homo sapiens",
+    "opsi": [
+      "Homo sapiens",
+      "Homo erectus",
+      "Homo habilis",
+      "Homo neanderthalensis"
+    ]
+  },
+  {
+    "pertanyaan": "Apa simbol kimia untuk air?",
+    "jawaban": "H2O",
+    "opsi": [
+      "H2O",
+      "CO2",
+      "NaCl",
+      "O2"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa pelukis 'Mona Lisa'?",
+    "jawaban": "Leonardo da Vinci",
+    "opsi": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama gunung berapi aktif di Jepang?",
+    "jawaban": "Fujisan",
+    "opsi": [
+      "Fujisan",
+      "Merapi",
+      "Krakatau",
+      "Vesuvius"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama kota terbesar di Australia?",
+    "jawaban": "Sydney",
+    "opsi": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sistem penulisan untuk bahasa Jepang?",
+    "jawaban": "Kanji",
+    "opsi": [
+      "Kanji",
+      "Hiragana",
+      "Katakana",
+      "Romaji"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penulis 'Pride and Prejudice'?",
+    "jawaban": "Jane Austen",
+    "opsi": [
+      "Jane Austen",
+      "Charles Dickens",
+      "Mark Twain",
+      "Emily Brontë"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama ibu kota Inggris?",
+    "jawaban": "London",
+    "opsi": [
+      "London",
+      "Edinburgh",
+      "Cardiff",
+      "Belfast"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama hewan yang dikenal sebagai 'Raja Hutan'?",
+    "jawaban": "Singha",
+    "opsi": [
+      "Singa",
+      "Harimau",
+      "Gajah",
+      "Beruang"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penemu vaksin cacar?",
+    "jawaban": "Edward Jenner",
+    "opsi": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Albert Calmette"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bahasa pemrograman yang dikembangkan oleh James Gosling?",
+    "jawaban": "Java",
+    "opsi": [
+      "C++",
+      "Python",
+      "Java",
+      "JavaScript"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama planet yang dikenal sebagai 'Planet Merah'?",
+    "jawaban": "Mars",
+    "opsi": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturnus"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama buku terlaris yang ditulis oleh Dan Brown?",
+    "jawaban": "The Da Vinci Code",
+    "opsi": [
+      "Angels & Demons",
+      "The Da Vinci Code",
+      "Inferno",
+      "Deception Point"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama ibu kota Brasil?",
+    "jawaban": "Brasília",
+    "opsi": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Brasília",
+      "Salvador"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama film yang disutradarai oleh Steven Spielberg dan bercerita tentang ikan hiu?",
+    "jawaban": "Jaws",
+    "opsi": [
+      "Jaws",
+      "Jurassic Park",
+      "E.T.",
+      "Saving Private Ryan"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pulau yang terkenal dengan penangkaran panda?",
+    "jawaban": "Sichuan",
+    "opsi": [
+      "Sichuan",
+      "Hainan",
+      "Taiwan",
+      "Hong Kong"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama benua terbesar di dunia?",
+    "jawaban": "Asia",
+    "opsi": [
+      "Asia",
+      "Afrika",
+      "Amerika",
+      "Eropa"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penulis 'To Kill a Mockingbird'?",
+    "jawaban": "Harper Lee",
+    "opsi": [
+      "Harper Lee",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama planet yang paling dekat dengan matahari?",
+    "jawaban": "Merkurius",
+    "opsi": [
+      "Venus",
+      "Merkurius",
+      "Mars",
+      "Jupiter"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama kota yang dikenal sebagai 'Kota Emas'?",
+    "jawaban": "Dubai",
+    "opsi": [
+      "Dubai",
+      "New York",
+      "London",
+      "Paris"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penulis '1984'?",
+    "jawaban": "George Orwell",
+    "opsi": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Isaac Asimov"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama unsur kimia dengan simbol 'Au'?",
+    "jawaban": "Emas",
+    "opsi": [
+      "Emas",
+      "Perak",
+      "Tembaga",
+      "Platina"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama musik tradisional dari Argentina?",
+    "jawaban": "Tango",
+    "opsi": [
+      "Samba",
+      "Tango",
+      "Salsa",
+      "Flamenco"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa ilmuwan yang mengembangkan teori relativitas?",
+    "jawaban": "Albert Einstein",
+    "opsi": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Niels Bohr"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama karya seni yang terbuat dari batu di Yogyakarta?",
+    "jawaban": "Candi Borobudur",
+    "opsi": [
+      "Candi Borobudur",
+      "Candi Prambanan",
+      "Candi Mendut",
+      "Candi Kalasan"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pendiri Microsoft?",
+    "jawaban": "Bill Gates",
+    "opsi": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Elon Musk"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama objek langit yang mengorbit planet?",
+    "jawaban": "Satelit",
+    "opsi": [
+      "Asteroid",
+      "Komet",
+      "Satelit",
+      "Meteorit"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bahasa pemrograman yang sering digunakan untuk pengembangan web front-end?",
+    "jawaban": "JavaScript",
+    "opsi": [
+      "Java",
+      "C#",
+      "JavaScript",
+      "PHP"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama komposer musik klasik dari Austria yang terkenal dengan karya 'The Magic Flute'?",
+    "jawaban": "Wolfgang Amadeus Mozart",
+    "opsi": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Franz Schubert"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama cuaca ekstrem dengan suhu sangat rendah?",
+    "jawaban": "Beberapa",
+    "opsi": [
+      "Hujan Es",
+      "Salju",
+      "Badai",
+      "Beberapa"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama jembatan yang menghubungkan dua benua, Eropa dan Asia?",
+    "jawaban": "Jembatan Bosphorus",
+    "opsi": [
+      "Jembatan Golden Gate",
+      "Jembatan Brooklyn",
+      "Jembatan Bosphorus",
+      "Jembatan Akashi Kaikyō"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pulau terbesar di Indonesia?",
+    "jawaban": "Kalimantan",
+    "opsi": [
+      "Sumatra",
+      "Jawa",
+      "Kalimantan",
+      "Sulawesi"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bangsa yang dikenal sebagai pembuat piramida?",
+    "jawaban": "Mesir",
+    "opsi": [
+      "Mesir",
+      "Mesopotamia",
+      "China",
+      "India"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama benua yang terletak di belahan bumi selatan?",
+    "jawaban": "Antartika",
+    "opsi": [
+      "Antartika",
+      "Asia",
+      "Amerika",
+      "Afrika"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama presiden Indonesia yang menjabat sebelum Joko Widodo?",
+    "jawaban": "Susilo Bambang Yudhoyono",
+    "opsi": [
+      "Susilo Bambang Yudhoyono",
+      "Megawati Soekarnoputri",
+      "Abdurrahman Wahid",
+      "Soeharto"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama planet yang memiliki cincin?",
+    "jawaban": "Saturnus",
+    "opsi": [
+      "Mars",
+      "Venus",
+      "Saturnus",
+      "Neptunus"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penyakit yang disebabkan oleh kekurangan vitamin C?",
+    "jawaban": "Skurvi",
+    "opsi": [
+      "Skurvi",
+      "Beriberi",
+      "Rakhitis",
+      "Anemia"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sungai terpanjang di Amerika Selatan?",
+    "jawaban": "Amazon",
+    "opsi": [
+      "Amazon",
+      "Orinoco",
+      "Parana",
+      "Mississippi"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sistem demokrasi di Indonesia?",
+    "jawaban": "Presidensial",
+    "opsi": [
+      "Parlementer",
+      "Presidensial",
+      "Monarki",
+      "Komunis"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama gunung berapi aktif di Italia?",
+    "jawaban": "Vesuvius",
+    "opsi": [
+      "Vesuvius",
+      "Etna",
+      "Stromboli",
+      "Krakatau"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pulau terbesar di Samudra Pasifik?",
+    "jawaban": "Papua",
+    "opsi": [
+      "Hawaii",
+      "Fiji",
+      "Papua",
+      "Guam"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penulis novel 'Moby Dick'?",
+    "jawaban": "Herman Melville",
+    "opsi": [
+      "Herman Melville",
+      "Mark Twain",
+      "Nathaniel Hawthorne",
+      "Edgar Allan Poe"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama negara yang dikenal dengan julukan 'Land of the Rising Sun'?",
+    "jawaban": "Jepang",
+    "opsi": [
+      "China",
+      "Jepang",
+      "Korea Selatan",
+      "Thailand"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bintang yang paling dekat dengan Bumi?",
+    "jawaban": "Matahari",
+    "opsi": [
+      "Matahari",
+      "Sirius",
+      "Alpha Centauri",
+      "Betelgeuse"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sistem penulisan yang digunakan untuk bahasa Korea?",
+    "jawaban": "Hangul",
+    "opsi": [
+      "Hangul",
+      "Kanji",
+      "Hiragana",
+      "Katakana"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama patung terkenal di New York?",
+    "jawaban": "Patung Liberty",
+    "opsi": [
+      "Patung Liberty",
+      "Patung David",
+      "Patung Moai",
+      "Patung Kristus"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penulis 'The Catcher in the Rye'?",
+    "jawaban": "J.D. Salinger",
+    "opsi": [
+      "J.D. Salinger",
+      "Harper Lee",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama jamur yang dapat dimakan dan sering digunakan dalam masakan Italia?",
+    "jawaban": "Jamur Portobello",
+    "opsi": [
+      "Jamur Shiitake",
+      "Jamur Portobello",
+      "Jamur Champignon",
+      "Jamur Enoki"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama karya seni yang terletak di Louvre Museum?",
+    "jawaban": "Mona Lisa",
+    "opsi": [
+      "Mona Lisa",
+      "The Persistence of Memory",
+      "The Scream",
+      "The Kiss"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama suku bangsa yang berasal dari Australia?",
+    "jawaban": "Aborigin",
+    "opsi": [
+      "Aborigin",
+      "Maori",
+      "Polinesia",
+      "Samoa"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama olahraga yang dimainkan di atas es dengan tongkat dan puck?",
+    "jawaban": "Hoki Es",
+    "opsi": [
+      "Hoki Es",
+      "Curling",
+      "Figure Skating",
+      "Speed Skating"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama tanaman yang menghasilkan kopi?",
+    "jawaban": "Kopi Arabika",
+    "opsi": [
+      "Kopi Arabika",
+      "Kopi Robusta",
+      "Kopi Liberika",
+      "Kopi Excelsa"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama festival musik terbesar di Eropa?",
+    "jawaban": "Glastonbury",
+    "opsi": [
+      "Glastonbury",
+      "Coachella",
+      "Tomorrowland",
+      "Burning Man"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sistem penulisan yang digunakan untuk bahasa Rusia?",
+    "jawaban": "Cyrillic",
+    "opsi": [
+      "Cyrillic",
+      "Latin",
+      "Hangeul",
+      "Kanji"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penulis 'The Lord of the Rings'?",
+    "jawaban": "J.R.R. Tolkien",
+    "opsi": [
+      "J.R.R. Tolkien",
+      "George R.R. Martin",
+      "C.S. Lewis",
+      "J.K. Rowling"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pulau yang menjadi tujuan wisata terkenal di Thailand?",
+    "jawaban": "Phuket",
+    "opsi": [
+      "Phuket",
+      "Bali",
+      "Boracay",
+      "Langkawi"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama olahraga yang melibatkan bola dan ring dengan 5 pemain di setiap tim?",
+    "jawaban": "Basket",
+    "opsi": [
+      "Basket",
+      "Sepak Bola",
+      "Rugby",
+      "Hoki"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama mesin pencetak pertama kali ditemukan oleh Johannes Gutenberg?",
+    "jawaban": "Mesin Cetak",
+    "opsi": [
+      "Mesin Cetak",
+      "Komputer",
+      "Telepon",
+      "Radio"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama negara yang memiliki banyak piramida kuno?",
+    "jawaban": "Mesir",
+    "opsi": [
+      "Mesir",
+      "Meksiko",
+      "India",
+      "Yunani"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama patung terkenal di Rio de Janeiro?",
+    "jawaban": "Kristus Penebus",
+    "opsi": [
+      "Kristus Penebus",
+      "David",
+      "Moses",
+      "Liberty"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama olahraga yang dimainkan di atas papan seluncur di pantai?",
+    "jawaban": "Selancar",
+    "opsi": [
+      "Selancar",
+      "Snowboard",
+      "Skateboard",
+      "Wakeboard"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bahasa pemrograman yang dikembangkan oleh Guido van Rossum?",
+    "jawaban": "Python",
+    "opsi": [
+      "Python",
+      "Java",
+      "Ruby",
+      "Swift"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama film animasi tentang seorang anak yang bisa berubah menjadi robot?",
+    "jawaban": "Big Hero 6",
+    "opsi": [
+      "Big Hero 6",
+      "The Incredibles",
+      "Toy Story",
+      "Finding Nemo"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama gunung berapi terkenal di Hawaii?",
+    "jawaban": "Kilauea",
+    "opsi": [
+      "Kilauea",
+      "Mauna Loa",
+      "Mount St. Helens",
+      "Mount Fuji"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama album legendaris dari The Beatles yang dirilis pada tahun 1967?",
+    "jawaban": "Sgt. Pepper's Lonely Hearts Club Band",
+    "opsi": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver",
+      "Rubber Soul",
+      "Abbey Road"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama karya seni yang diciptakan oleh Michelangelo di langit-langit Kapel Sistina?",
+    "jawaban": "The Creation of Adam",
+    "opsi": [
+      "The Creation of Adam",
+      "The Last Judgment",
+      "The Birth of Venus",
+      "The School of Athens"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama daerah dingin yang terletak di belahan bumi utara?",
+    "jawaban": "Arktik",
+    "opsi": [
+      "Arktik",
+      "Antartika",
+      "Sahara",
+      "Amazon"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penulis 'War and Peace'?",
+    "jawaban": "Leo Tolstoy",
+    "opsi": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Vladimir Nabokov"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sistem pemerintahan yang dipimpin oleh seorang raja?",
+    "jawaban": "Monarki",
+    "opsi": [
+      "Monarki",
+      "Republik",
+      "Oligarki",
+      "Demokrasi"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama hewan mamalia besar yang ditemukan di Amerika Utara dan dikenal dengan tanduk besar?",
+    "jawaban": "Rusa",
+    "opsi": [
+      "Rusa",
+      "Gajah",
+      "Bison",
+      "Kuda"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bahasa pemrograman yang dikembangkan oleh Microsoft untuk aplikasi web?",
+    "jawaban": "ASP.NET",
+    "opsi": [
+      "ASP.NET",
+      "PHP",
+      "Ruby on Rails",
+      "JavaScript"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama monumen terkenal yang terletak di India?",
+    "jawaban": "Taj Mahal",
+    "opsi": [
+      "Taj Mahal",
+      "Colosseum",
+      "Machu Picchu",
+      "Eiffel Tower"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama benua yang dikenal dengan julukan 'Benua Hitam'?",
+    "jawaban": "Afrika",
+    "opsi": [
+      "Afrika",
+      "Asia",
+      "Eropa",
+      "Amerika"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama alat musik yang terbuat dari kayu dan dimainkan dengan cara dipetik?",
+    "jawaban": "Gitar",
+    "opsi": [
+      "Gitar",
+      "Piano",
+      "Saxophone",
+      "Biola"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penulis 'The Great Gatsby'?",
+    "jawaban": "F. Scott Fitzgerald",
+    "opsi": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Harper Lee"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama film yang disutradarai oleh Alfred Hitchcock dan dikenal sebagai thriller klasik?",
+    "jawaban": "Psycho",
+    "opsi": [
+      "Psycho",
+      "Vertigo",
+      "Rear Window",
+      "North by Northwest"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pemimpin terkenal dari Revolusi Prancis?",
+    "jawaban": "Napoleon Bonaparte",
+    "opsi": [
+      "Louis XVI",
+      "Maximilien Robespierre",
+      "Napoleon Bonaparte",
+      "Georges Danton"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama organ tubuh yang berfungsi untuk memompa darah?",
+    "jawaban": "Jantung",
+    "opsi": [
+      "Jantung",
+      "Paru-paru",
+      "Hati",
+      "Ginjal"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sistem operasi yang dikembangkan oleh Apple untuk komputer Mac?",
+    "jawaban": "macOS",
+    "opsi": [
+      "Windows",
+      "macOS",
+      "Linux",
+      "Unix"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama acara olahraga terbesar di dunia yang diadakan setiap empat tahun?",
+    "jawaban": "Olimpiade",
+    "opsi": [
+      "Olimpiade",
+      "Piala Dunia",
+      "Euro Cup",
+      "World Series"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bahasa pemrograman yang dikembangkan oleh Guido van Rossum?",
+    "jawaban": "Python",
+    "opsi": [
+      "Python",
+      "Java",
+      "C++",
+      "Ruby"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama kepulauan yang terletak di Samudra Hindia dan merupakan bagian dari Indonesia?",
+    "jawaban": "Kepulauan Maluku",
+    "opsi": [
+      "Kepulauan Maluku",
+      "Kepulauan Sunda",
+      "Kepulauan Karimata",
+      "Kepulauan Riau"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama film animasi yang disutradarai oleh Walt Disney dan bercerita tentang seorang gadis dengan tujuh kurcaci?",
+    "jawaban": "Snow White",
+    "opsi": [
+      "Snow White",
+      "Cinderella",
+      "Sleeping Beauty",
+      "Belle"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama alat musik yang dimainkan dengan cara dipukul dan sering digunakan dalam orkestra?",
+    "jawaban": "Gendang",
+    "opsi": [
+      "Gendang",
+      "Piano",
+      "Biola",
+      "Saxophone"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama pengusaha yang mendirikan Tesla Motors?",
+    "jawaban": "Elon Musk",
+    "opsi": [
+      "Elon Musk",
+      "Steve Jobs",
+      "Bill Gates",
+      "Mark Zuckerberg"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama hewan laut yang terkenal dengan tentakel dan memiliki kemampuan untuk menyamar?",
+    "jawaban": "Cumi-cumi",
+    "opsi": [
+      "Cumi-cumi",
+      "Kepiting",
+      "Hiu",
+      "Laut"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama negara yang dikenal sebagai tempat asal dari pizza?",
+    "jawaban": "Italia",
+    "opsi": [
+      "Italia",
+      "Prancis",
+      "Spanyol",
+      "Jerman"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama mata uang resmi yang digunakan di Eropa?",
+    "jawaban": "Euro",
+    "opsi": [
+      "Euro",
+      "Pound Sterling",
+      "Dollar",
+      "Yen"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama batu berharga yang dikenal dengan warna merah dan sering digunakan dalam perhiasan?",
+    "jawaban": "Ruby",
+    "opsi": [
+      "Ruby",
+      "Sapphire",
+      "Emerald",
+      "Diamond"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama hewan yang dikenal sebagai 'Kuda Laut'?",
+    "jawaban": "Hippocampus",
+    "opsi": [
+      "Hippocampus",
+      "Dolphin",
+      "Shark",
+      "Octopus"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama benua yang memiliki gurun Sahara?",
+    "jawaban": "Afrika",
+    "opsi": [
+      "Afrika",
+      "Asia",
+      "Amerika",
+      "Australia"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penyanyi yang dikenal dengan julukan 'King of Pop'?",
+    "jawaban": "Michael Jackson",
+    "opsi": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Madonna",
+      "Prince"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama makanan yang terbuat dari fermentasi kedelai dan sering digunakan dalam masakan Jepang?",
+    "jawaban": "Tempe",
+    "opsi": [
+      "Tempe",
+      "Sushi",
+      "Miso",
+      "Soba"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama film yang disutradarai oleh James Cameron dan bercerita tentang kapal Titanic?",
+    "jawaban": "Titanic",
+    "opsi": [
+      "Titanic",
+      "Avatar",
+      "Terminator",
+      "Aliens"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama sistem penulisan yang digunakan untuk bahasa Arab?",
+    "jawaban": "Arab",
+    "opsi": [
+      "Arab",
+      "Latin",
+      "Kanji",
+      "Cyrillic"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama permainan papan yang terkenal dengan kata-kata dan huruf?",
+    "jawaban": "Scrabble",
+    "opsi": [
+      "Scrabble",
+      "Monopoly",
+      "Risk",
+      "Chess"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama bulan ketujuh dalam setahun?",
+    "jawaban": "Juli",
+    "opsi": [
+      "Januari",
+      "Februari",
+      "Juli",
+      "Desember"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama hewan yang dikenal dengan julukan 'Penguasa Laut'?",
+    "jawaban": "Hiu",
+    "opsi": [
+      "Hiu",
+      "Dolphin",
+      "Kepiting",
+      "Laut"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama makanan yang terbuat dari daging yang diasinkan dan dikeringkan?",
+    "jawaban": "Dendeng",
+    "opsi": [
+      "Dendeng",
+      "Sate",
+      "Bakso",
+      "Rendang"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama penulis 'The Catcher in the Rye'?",
+    "jawaban": "J.D. Salinger",
+    "opsi": [
+      "J.D. Salinger",
+      "Harper Lee",
+      "J.K. Rowling",
+      "George Orwell"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama ibu kota negara Belanda?",
+    "jawaban": "Amsterdam",
+    "opsi": [
+      "Amsterdam",
+      "Rotterdam",
+      "The Hague",
+      "Utrecht"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama negara yang dikenal dengan julukan 'Negeri Sakura'?",
+    "jawaban": "Jepang",
+    "opsi": [
+      "Jepang",
+      "Korea Selatan",
+      "China",
+      "Taiwan"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama olahraga yang dimainkan di atas tanah dan melibatkan bola serta raket?",
+    "jawaban": "Tenis",
+    "opsi": [
+      "Tenis",
+      "Golf",
+      "Kricket",
+      "Rugby"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama raja terkenal dari Inggris yang dikenal dengan julukan 'Raja Pemabuk'?",
+    "jawaban": "Raja George IV",
+    "opsi": [
+      "Raja George IV",
+      "Raja Henry VIII",
+      "Raja Edward VI",
+      "Raja Richard III"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penyanyi lagu 'Kopi Dangdut'?",
+    "jawaban": "H Rhoma Irama",
+    "opsi": [
+      "H Rhoma Irama",
+      "Pasha Ungu",
+      "Anggun",
+      "Iwan Fals"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama band yang terkenal dengan lagu 'Kangen'?",
+    "jawaban": "Dewa 19",
+    "opsi": [
+      "Dewa 19",
+      "Pasha Ungu",
+      "Sheila on 7",
+      "Peterpan"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa penyanyi lagu 'Cinta Luar Biasa'?",
+    "jawaban": "Andmesh Kamaleng",
+    "opsi": [
+      "Andmesh Kamaleng",
+      "Rizky Febian",
+      "Afgansyah Reza",
+      "Tulus"
+    ]
+  },
+  {
+    "pertanyaan": "Apa nama album pertama dari Sheila on 7?",
+    "jawaban": "Sheila on 7",
+    "opsi": [
+      "Sheila on 7",
+      "Kisah Klasik Untuk Masa Depan",
+      "07 Des",
+      "Berharap"
+    ]
+  },
+  {
+    "pertanyaan": "Siapa yang menyanyikan lagu 'Laskar Pelangi'?",
+    "jawaban": "Nidji",
+    "opsi": [
+      "Nidji",
+      "Cokelat",
+      "Kerispatih",
+      "Dewa 19"
+    ]
+  },
+  {
+    "pertanyaan": "Apa judul lagu hit dari Tulus yang dirilis pada tahun 2016?",
+    "jawaban": "Teman Hidup",
+    "opsi": [
+      "Teman Hidup",
+      "Gajah",
+      "Pupus",
+      "Sewindu"
+    ]
+  },
+  {
+    "pertanyaan": "Band manakah yang dikenal dengan lagu 'Jangan Pergi'?",
+    "jawaban": "Pasha Ungu",
+    "opsi": [
+      "Pasha Ungu",
+      "Gigi",
+      "Pee Wee Gaskins",
+      "Jikustik"
+    ]
+  }
+]
